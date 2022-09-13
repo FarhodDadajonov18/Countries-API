@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgba(18, 17, 17, 0.865);
+}
+
+.button{
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding: 14px;
+  margin-right: auto;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 6px;
+  background-color: rgb(132, 118, 118);
+  
+}
+.item{
+  height: 300px;
+
+}
+
+.card {
+  height: 300px;
+}
+.population{
+  margin: 0;
+}
+.continent{
+  color: red;
+}
